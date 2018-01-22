@@ -378,7 +378,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
 1. On the Triggers UI page, watch for your specified trigger event to appear.
 
-    ![triggers page](https://git.corp.adobe.com/storage/user/17975/files/58f8fcf8-cbcc-11e7-94ee-9969089f71d2)
+     ![triggers page](https://user-images.githubusercontent.com/29133525/35234984-17044344-ff60-11e7-8116-8af484324e89.png)
 
 1. On the Command Line Interface (CLI) enter the following commands:
 
