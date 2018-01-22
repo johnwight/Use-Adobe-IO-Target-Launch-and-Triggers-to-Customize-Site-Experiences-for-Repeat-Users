@@ -31,25 +31,12 @@ Before starting this solution, you will need to do the following:
 
 #### <a name="Obtain-Product-Authorization">Obtain Product Authorization</a>
 
-To complete this solution, you will need authorization to use the following services:
+To complete this solution, you will need authorization and administrative privileges to use the following services:
 
 *	 Adobe Launch
 *   Adobe Target
 *   Adobe Analytics, including Triggers
 *   Adobe Marketing Cloud Activation Core Services
-*   An [Adobe ID](https://helpx.adobe.com/x-productkb/global/adobe-id-account-change.html), if you do not have one already
-
-#### <a name="Obtain-Administrative-Permissions">Obtain Administrative Permissions</a>
-
-You will also need administrative permissions for the following:
-* Adobe Launch
-* Adobe Target
-* Adobe Analytics
-* Your enterprise organization
-
-If you do not have administrative permissions, please contact ioevents-beta@adobe.com. After requesting administrative permissions, watch for an email from Adobe Systems Incorporated, as shown:
-
-   ![admin rights 2](https://user-images.githubusercontent.com/29133525/32473847-d5ba50ba-c326-11e7-8443-fef38b12bcff.png)
 
 ## <a name="Set-Up-Products">Set Up Products</a>
 
