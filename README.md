@@ -308,7 +308,7 @@ To set up Target:
 
 1. Click **Launch** on the Target product card.
 
-    ![target card launch](https://git.corp.adobe.com/storage/user/17975/files/5478be94-cbbc-11e7-8abd-728d5bc66818)
+     ![target card launch](https://user-images.githubusercontent.com/29133525/35233319-0bfb3ec6-ff5b-11e7-85ef-db00b66c8c85.png)
 
 1. On the **Audiences** tab, click the **Create Audience** button.
 
