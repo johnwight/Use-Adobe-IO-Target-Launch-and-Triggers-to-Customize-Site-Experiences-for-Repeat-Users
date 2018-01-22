@@ -349,7 +349,7 @@ To set up Target:
        </strong>
    </div>
    ```
-   ![text editor](https://git.corp.adobe.com/storage/user/17975/files/ec55c044-cbc7-11e7-9c19-209ccbbc9c73)
+     ![text editor](https://user-images.githubusercontent.com/29133525/35234773-810ffaf4-ff5f-11e7-9bfd-3badafb445eb.png)
 
 10. Click **Next** and then click **Change Audience**. Select the audience created in Step 4 (Trigger Audience).
 
