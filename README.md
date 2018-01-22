@@ -149,7 +149,7 @@ To set up Triggers for this solution:
 
 1. Add the following dimensions:
 
-    ![dimensions](https://git.corp.adobe.com/storage/user/17975/files/1a72ce7e-cbb2-11e7-8901-2343e2573045)
+     ![dimensions](https://user-images.githubusercontent.com/29133525/35232766-8e9bfec6-ff59-11e7-888c-d69adb140cf6.png)
 
 ### <a name="Set-Up-Target">Set Up Target</a>
 
