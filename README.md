@@ -408,7 +408,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
 10. To inspect the element, right-click on the page and select **Inspect**.
 
-    ![inspect element](https://git.corp.adobe.com/storage/user/17975/files/250c4e98-cbd8-11e7-8cc5-a07cefd93571)
+     ![inspect element](https://user-images.githubusercontent.com/29133525/35235281-ecedd5d8-ff60-11e7-9b21-e9a35a94fd6f.png)
 
 
 11. Click the **Network** tab. Reload the page and filter for **target**.
