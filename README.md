@@ -1,4 +1,4 @@
-# Adobe-IO-Runtime-Triggers-Launch-Target
+# Use Adobe I/O, Target, Launch, and Triggers to Customize Site Experiences for Repeat Users
 
 These instructions describe how to use Adobe I/O Events and Runtime with Launch, Target, and Triggers to customize website experiences for anonymous users who have previously abandoned their carts.
 
@@ -24,6 +24,12 @@ The following diagram shows the architecture for this solution:
 ![runtime flow](https://git.corp.adobe.com/storage/user/17975/files/c213d2e2-c589-11e7-8f22-0cea7342715f)
 
 ### What's Needed
+Before starting this solution, you will need to do the following:
+
+1. [Obtain Product Authorization](#Obtain-Product-Authorization)
+2. [Obtain Administrative Permissions](#Obtain-Administrative-Permissions)
+
+#### <a name="Obtain-Product-Authorization">Obtain Product Authorization</a>
 
 To complete this solution, you will need authorization to use the following services:
 
@@ -33,6 +39,17 @@ To complete this solution, you will need authorization to use the following serv
 *   Adobe Marketing Cloud Activation Core Services
 *   An [Adobe ID](https://helpx.adobe.com/x-productkb/global/adobe-id-account-change.html), if you do not have one already
 
+#### <a name="Obtain-Administrative-Permissions">Obtain Administrative Permissions</a>
+
+You will also need administrative permissions for the following:
+* Adobe Launch
+* Adobe Target
+* Adobe Analytics
+* Your enterprise organization
+
+If you do not have administrative permissions, please contact ioevents-beta@adobe.com. After requesting administrative permissions, watch for an email from Adobe Systems Incorporated, as shown:
+
+   ![admin rights 2](https://user-images.githubusercontent.com/29133525/32473847-d5ba50ba-c326-11e7-8443-fef38b12bcff.png)
 
 ## <a name="Set-Up-Products">Set Up Products</a>
 
