@@ -106,7 +106,7 @@ To set up Launch:
    * Stage
    * Production
 
-   ![create environments](https://git.corp.adobe.com/storage/user/17975/files/ee621fc4-ca3f-11e7-82af-09d4e9afab44)
+     ![create environments](https://user-images.githubusercontent.com/29133525/35232311-65b511b0-ff58-11e7-8abf-b8672c63dbfe.png)
 
 8. Save the rule and then click the **Publishing** tab.
 
