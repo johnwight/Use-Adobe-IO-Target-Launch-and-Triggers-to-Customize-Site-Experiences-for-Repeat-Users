@@ -118,7 +118,7 @@ To set up Launch:
 
 11. Click the **Add All Changed Resources** button. 
    
-    ![specify build](https://git.corp.adobe.com/storage/user/17975/files/6399305a-ca42-11e7-8472-7f9dce021645)
+     ![specify build](https://user-images.githubusercontent.com/29133525/35232486-d2a1fdc4-ff58-11e7-930d-61983c6cc83f.png)
    
 12. Under **Development**, select **Build for Development** in the library drop down.
    
