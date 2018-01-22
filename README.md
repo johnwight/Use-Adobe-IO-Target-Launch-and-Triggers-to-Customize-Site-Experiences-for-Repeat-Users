@@ -317,7 +317,7 @@ To set up Target:
 
 1. On the **Information** form, provide a **Name** for the audience. Then click the **Add Rule** button and select **Visitor Profile**.
 
-    ![information form visitor profile](https://git.corp.adobe.com/storage/user/17975/files/85097d80-cbc3-11e7-9b87-af2b3b0d0fbf)
+     ![information form visitor profile](https://user-images.githubusercontent.com/29133525/35234400-3aa423de-ff5e-11e7-8838-afc6985d52cf.png)
 
 
 1. Click the **Visitor Profile** drop down arrow to see existing custom attributes for creating audiences.
