@@ -399,7 +399,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
    http://mboxedge28.tt.omtrdc.net/m2/adobeiosolutions/profile/batchStatus?batchId=adobeiosolutions-1508968014477-39630647.
 
-    ![trigger response](https://git.corp.adobe.com/storage/user/17975/files/558307c8-cbd4-11e7-8313-5fef81880061)
+     ![trigger response](https://user-images.githubusercontent.com/29133525/35235092-5eecb9ca-ff60-11e7-8291-f8118d03601f.png)
 
 
 9. View the [**Products** site page](http://localhost:4502/content/we-retail/us/en/products/men.html) to see the custom UI element you created.
