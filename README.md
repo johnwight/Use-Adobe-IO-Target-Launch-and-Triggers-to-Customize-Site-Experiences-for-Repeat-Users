@@ -27,7 +27,7 @@ The following diagram shows the architecture for this solution:
 
 To complete this solution, you will need authorization and administrative privileges to use the following services:
 
-*	 Adobe Launch
+*   Adobe Launch
 *   Adobe Target
 *   Adobe Analytics, including Triggers
 *   Adobe Marketing Cloud Activation Core Services
@@ -54,7 +54,7 @@ To set up Launch:
 
 1. On the **Create Property** box, provide the details for the new property and click **Save.**
 
-   ![create property box details](https://git.corp.adobe.com/storage/user/17975/files/a5069cf2-ca39-11e7-94eb-5109a8f010f3)
+     ![create property box details](https://user-images.githubusercontent.com/29133525/35232087-c8a33c3a-ff57-11e7-82ff-8b68c085726a.png)
 
 1. Click the **Extensions** tab and install the following extensions
 
