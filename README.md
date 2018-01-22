@@ -112,7 +112,7 @@ To set up Launch:
 
 9. Click **Add New Library** button.
 
-   ![add new library](https://git.corp.adobe.com/storage/user/17975/files/044c20f4-ca41-11e7-8717-c29372c9683e)
+     ![add new library](https://user-images.githubusercontent.com/29133525/35232426-a6d1364c-ff58-11e7-88e7-88d02cf29c19.png)
    
 10. On the **Create New Library** form, specify a **Name** for the build and then select **Dev (development)** from the **Environment** drop down.
 
