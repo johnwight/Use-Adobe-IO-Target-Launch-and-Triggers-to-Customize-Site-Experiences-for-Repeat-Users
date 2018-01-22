@@ -72,7 +72,7 @@ To set up Launch:
 
 1. Similarly, create an **Analytics** rule with the following specifications:
 
-   ![analytics rule](https://git.corp.adobe.com/storage/user/17975/files/c69616a2-ca3b-11e7-94ff-d246d370669a)
+     ![analytics rule](https://user-images.githubusercontent.com/29133525/35232240-39d0808e-ff58-11e7-9ac1-92d763c3cd21.png)
 
 1. For the **Adobe Analytics - Set Variables** action, click the **</> Open Editor** button at the bottom of the page and add the following custom script:
 
