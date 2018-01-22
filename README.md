@@ -300,7 +300,7 @@ Use Adobe I/O by creating a new integration with the Console. To do this:
     For more information on creating and registering webhooks, see [Introduction to Webhooks](https://github.com/adobeio/adobeio-events-documentation/blob/master/Webhook_docs_intro.md).
 
 
-### <a name="Set-Up-Target-Continued">Set Up Target (Continued)</a>
+### <a name="Set-Up-Target-Continued">Set Up Target</a>
 
 Adobe Target is a personalization solution that makes it easy to identify your best content through tests that are easy to execute. So you can deliver the right experience to the right customer.
 
