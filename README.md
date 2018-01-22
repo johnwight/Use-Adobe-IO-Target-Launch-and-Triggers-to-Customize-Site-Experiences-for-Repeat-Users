@@ -418,7 +418,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
 12. You can explore the element to verify and debug the target action.
 
-    ![debug target action](https://git.corp.adobe.com/storage/user/17975/files/43045928-cbd7-11e7-9e88-158c3e60c7d2)
+     ![debug target action](https://user-images.githubusercontent.com/29133525/35235363-277f06ae-ff61-11e7-931d-6baf2d549a9c.png)
 
 ## Feedback?
 
