@@ -24,12 +24,6 @@ The following diagram shows the architecture for this solution:
 ![runtime flow](https://user-images.githubusercontent.com/29133525/35231736-c32ba766-ff56-11e7-8383-20183fed9364.png)
 
 ### What's Needed
-Before starting this solution, you will need to do the following:
-
-1. [Obtain Product Authorization](#Obtain-Product-Authorization)
-2. [Obtain Administrative Permissions](#Obtain-Administrative-Permissions)
-
-#### <a name="Obtain-Product-Authorization">Obtain Product Authorization</a>
 
 To complete this solution, you will need authorization and administrative privileges to use the following services:
 
