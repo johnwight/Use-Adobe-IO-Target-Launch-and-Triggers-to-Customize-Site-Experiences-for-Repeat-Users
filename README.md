@@ -126,7 +126,7 @@ To set up Launch:
 
 13. Approve and publish the library by selecting the appropriate option under the drop down arrow for each phase of the build workflow (**Submitted** and **Approved**).
 
-    ![full flow](https://git.corp.adobe.com/storage/user/17975/files/2770abb0-cba7-11e7-8c79-aaf0c67d7aeb)
+     ![full flow](https://user-images.githubusercontent.com/29133525/35232581-09ba310a-ff59-11e7-8ecf-413d8a1b3b25.png)
 
 14. Repeat this process for the **Stage** and **Production** environments as well.
 
