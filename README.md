@@ -358,7 +358,7 @@ To set up Target:
 
 11. On the **Activity Settings**, specify your **Objective**, **Priority**, **Duration**, and **Primary Goal**.
 
-    ![activity settings](https://git.corp.adobe.com/storage/user/17975/files/96bc6c8a-cbc9-11e7-976b-c3cc08e80846)
+     ![activity settings](https://user-images.githubusercontent.com/29133525/35234872-cee9deb6-ff5f-11e7-9786-2412edfde98e.png)
 
 12. Click **Save & Close**.
  
