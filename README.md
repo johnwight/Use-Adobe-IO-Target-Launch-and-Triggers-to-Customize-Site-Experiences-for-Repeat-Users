@@ -21,7 +21,7 @@ An anonymous user visits a retail website. The user visits the product page, sel
 ### Architecture
 The following diagram shows the architecture for this solution:
 
-![runtime flow](https://git.corp.adobe.com/storage/user/17975/files/c213d2e2-c589-11e7-8f22-0cea7342715f)
+![runtime flow](https://user-images.githubusercontent.com/29133525/35231736-c32ba766-ff56-11e7-8383-20183fed9364.png)
 
 ### What's Needed
 Before starting this solution, you will need to do the following:
