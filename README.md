@@ -421,6 +421,9 @@ To watch the solution work, you can test the cart abandonment scenario:
 
      ![debug target action](https://user-images.githubusercontent.com/29133525/35235363-277f06ae-ff61-11e7-931d-6baf2d549a9c.png)
 
+# Author
+- Hiren Shah [@hirenshah111](https://github.com/hirenshah111).
+
 ## Feedback?
 
 Please help make this solution as useful as possible. If you find a problem in the documentation or have a suggestion, click the **Issues** tab on this GiHhub repository and then click the **New issue** button. Provide a title and description for your comment and then click the **Submit new issue** button.
