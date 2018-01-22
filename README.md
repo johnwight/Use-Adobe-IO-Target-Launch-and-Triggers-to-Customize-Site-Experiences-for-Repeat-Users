@@ -122,7 +122,7 @@ To set up Launch:
    
 12. Under **Development**, select **Build for Development** in the library drop down.
    
-    ![build for dev](https://git.corp.adobe.com/storage/user/17975/files/3d7369b2-cb97-11e7-967c-6d53e37db24e)
+     ![build for dev](https://user-images.githubusercontent.com/29133525/35232529-ecd5061e-ff58-11e7-9e33-78a2a336a73a.png)
 
 13. Approve and publish the library by selecting the appropriate option under the drop down arrow for each phase of the build workflow (**Submitted** and **Approved**).
 
