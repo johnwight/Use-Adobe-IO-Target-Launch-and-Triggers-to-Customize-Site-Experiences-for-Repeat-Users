@@ -312,7 +312,7 @@ To set up Target:
 
 1. On the **Audiences** tab, click the **Create Audience** button.
 
-    ![audiences tab redo](https://git.corp.adobe.com/storage/user/17975/files/b79c1f92-cbc2-11e7-91bb-29108f4cbce9)
+     ![audiences tab redo](https://user-images.githubusercontent.com/29133525/35234347-0ebad54c-ff5e-11e7-94fd-60acb63db18b.png)
 
 
 1. On the **Information** form, provide a **Name** for the audience. Then click the **Add Rule** button and select **Visitor Profile**.
