@@ -185,13 +185,13 @@ function main(args) {
     if (method == "post") {
         var body = new Buffer(args.__ow_body, 'base64');
         var jSon = JSON.parse(body);
-        var mcId = jSon.trigger.mcId;
-        var index = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar5.data.length - 1;
-        var pcId = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar3.data[index];
-        var trPrices = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar4.data[index].split("|")[0];
-        var trProducts = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar5.data[index].split("|")[0];
-        var trLink = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar6.data[index].split("|")[0];
-        var trThumb = jSon.trigger.enrichments.analyticsHitSummary.dimensions.eVar7.data[index].split("|")[0];
+        var mcId = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].mcId;
+        var index = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar5.data.length - 1;
+        var pcId = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar3.data[index];
+        var trPrices = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar4.data[index].split("|")[0];
+        var trProducts = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar5.data[index].split("|")[0];
+        var trLink = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar6.data[index].split("|")[0];
+        var trThumb = jSon.event["com.adobe.mcloud.pipeline.pipelineMessage"]["com.adobe.mcloud.protocol.trigger"].enrichments.analyticsHitSummary.dimensions.eVar7.data[index].split("|")[0];
         var trOffer = "5";
         var trCoupon = "ADBETGT5OFF";
  
@@ -241,6 +241,7 @@ function main(args) {
         });
     }
 }
+
 ```
 
 To deploy the webhook.js and create a web action, enter the following commands:
