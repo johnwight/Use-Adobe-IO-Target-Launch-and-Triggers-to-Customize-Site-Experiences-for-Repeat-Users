@@ -421,8 +421,10 @@ To watch the solution work, you can test the cart abandonment scenario:
 
      ![debug target action](https://user-images.githubusercontent.com/29133525/35235363-277f06ae-ff61-11e7-931d-6baf2d549a9c.png)
 
-## Author
+## Authors
 - Hiren Shah [@hirenshah111](https://github.com/hirenshah111).
+- John Wight [@johnwight](https://github.com/johnwight).
+
 
 ## Feedback?
 
