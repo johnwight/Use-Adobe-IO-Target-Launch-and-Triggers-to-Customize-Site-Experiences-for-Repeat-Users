@@ -295,7 +295,7 @@ Use Adobe I/O by creating a new integration with the Console. To do this:
 
 7. On the **Webhook Details** form, add details, including your web action URL for I/O Events integration webhook. This is where Triggers messages will be delivered by I/O Events. Click **Save**.
 
-    ![webhook details](https://git.corp.adobe.com/storage/user/17975/files/9a71d8be-cbc0-11e7-9fc2-9bea77be5847)
+     ![webhook details](https://user-images.githubusercontent.com/29133525/35233287-ea8b5dca-ff5a-11e7-8a10-186e632ed391.png)
 
     For more information on creating and registering webhooks, see [Introduction to Webhooks](https://github.com/adobeio/adobeio-events-documentation/blob/master/Webhook_docs_intro.md).
 
