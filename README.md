@@ -334,7 +334,7 @@ To set up Target:
      
 1. On the **Create Experience Targeting Activity** form, provide the Target page URL.
 
-    ![targeting activity](https://git.corp.adobe.com/storage/user/17975/files/51e83034-cbc5-11e7-9966-db80874656a6)
+     ![targeting activity](https://user-images.githubusercontent.com/29133525/35234641-1cf82258-ff5f-11e7-8ebc-c8d6f5b18205.png)
 
 1. Open the text editor to add a custom UI element for the user on the site. To do this, select an empty container and click **Edit Text/HTML**.
 
