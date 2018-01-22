@@ -330,8 +330,8 @@ To set up Target:
 
 1. Click the **Activities** tab and select **Experience Targeting**.
 
-    ![activities tab](https://git.corp.adobe.com/storage/user/17975/files/e2befac6-cbc4-11e7-9182-04c7ab873d7f)
-
+     ![activities tab](https://user-images.githubusercontent.com/29133525/35234602-fb9924fe-ff5e-11e7-8ca9-e127b4108b0b.png)
+     
 1. On the **Create Experience Targeting Activity** form, provide the Target page URL.
 
     ![targeting activity](https://git.corp.adobe.com/storage/user/17975/files/51e83034-cbc5-11e7-9966-db80874656a6)
