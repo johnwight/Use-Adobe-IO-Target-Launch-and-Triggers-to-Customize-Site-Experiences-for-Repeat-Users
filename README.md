@@ -338,7 +338,7 @@ To set up Target:
 
 1. Open the text editor to add a custom UI element for the user on the site. To do this, select an empty container and click **Edit Text/HTML**.
 
-    ![container](https://git.corp.adobe.com/storage/user/17975/files/72178278-cbc6-11e7-8d11-b68437a3ae57)
+     ![container](https://user-images.githubusercontent.com/29133525/35234700-3d586ac6-ff5f-11e7-846d-d0a70ba2151b.png)
 
 1. On the text editor, click the **HTML** button, paste the following HTML and click **Save**. 
 
