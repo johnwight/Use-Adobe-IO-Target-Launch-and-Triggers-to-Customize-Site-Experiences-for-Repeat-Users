@@ -386,7 +386,7 @@ To watch the solution work, you can test the cart abandonment scenario:
    wsk activation list runtime
    ```
 
-   ![runtime commands](https://git.corp.adobe.com/storage/user/17975/files/2d8f882a-cbd1-11e7-8b38-043f4d9d8b6e)
+     ![runtime commands](https://user-images.githubusercontent.com/29133525/35235023-3a2ac712-ff60-11e7-9f8b-014cca316a4f.png)
 
 
 7. Select and copy the first activation listed and paste it into the following command:
