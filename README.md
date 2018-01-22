@@ -413,7 +413,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
 11. Click the **Network** tab. Reload the page and filter for **target**.
 
-    ![network tab on debugger](https://git.corp.adobe.com/storage/user/17975/files/93cd5e46-cbd6-11e7-831c-aef972c87af6)
+     ![network tab on debugger](https://user-images.githubusercontent.com/29133525/35235317-0ea83696-ff61-11e7-9a1c-b25fad9fe806.png)
 
 
 12. You can explore the element to verify and debug the target action.
