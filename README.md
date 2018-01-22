@@ -404,7 +404,7 @@ To watch the solution work, you can test the cart abandonment scenario:
 
 9. View the [**Products** site page](http://localhost:4502/content/we-retail/us/en/products/men.html) to see the custom UI element you created.
 
-    ![response custom ui element on page](https://git.corp.adobe.com/storage/user/17975/files/37c59ac4-cbd5-11e7-8145-5fce5f658c2e)
+     ![response custom ui element on page](https://user-images.githubusercontent.com/29133525/35235162-90ce26ea-ff60-11e7-9c9a-   e5bbf9e3196e.png)
 
 10. To inspect the element, right-click on the page and select **Inspect**.
 
