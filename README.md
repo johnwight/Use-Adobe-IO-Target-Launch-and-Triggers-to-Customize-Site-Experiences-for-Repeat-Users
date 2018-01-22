@@ -6,8 +6,6 @@ These instructions describe how to use Adobe I/O Events and Runtime with Launch,
 
 1. [Set Up Products](#Set-Up-Products)
 
-1. [Use Adobe I/O](#Use-Adobe-I/O)
-
 1. [Watch the Solution Work](#Watch-It-Work)
 
 ## <a name="Introduction">Introduction</a>
@@ -39,6 +37,10 @@ To set up Adobe products for this solution:
 1. [Set Up Launch](#Set-Up-Launch)
 
 1. [Set Up Analytics Triggers](#Set-Up-Analytics-Triggers)
+
+1. [Set Up Adobe I/O Runtime](#Adobe-I/O-Runtime)
+
+1. [Set Up Adobe I/O Events](#Adobe-I/O-Events)
 
 1. [Set Up Target](#Set-Up-Target)
 
@@ -155,15 +157,7 @@ To set up Triggers for this solution:
 
 Before setting up Target, you must first configure Adobe I/O services, as described in the [following section](#Use-Adobe-I/O). Once the Target profile API is set with Adobe I/O, you can [continue setting up Target](#Set-Up-Target-Continued).
 
-## <a name="Use-Adobe-I/O">Use Adobe I/O</a>
-
-Adobe I/O includes the following services to enable this solution:
-
-1. [Adobe I/O Runtime](#Adobe-I/O-Runtime)
-
-1. [Adobe I/O Events](#Adobe-I/O-Events)
-
-### <a name="Adobe-I/O-Runtime">Adobe I/O Runtime</a>
+### <a name="Adobe-I/O-Runtime">Set Up Adobe I/O Runtime</a>
 
 Adobe I/O Runtime is a serverless platform that allows you to quickly deploy custom code to respond to events and execute functions in the cloud, with no server set-up.
 
@@ -263,7 +257,7 @@ After entering the commands, the web action is accessible at the following locat
 https://runtime-preview.adobe.io/api/v1/web/<your_openwhisk_namespace>/default/runtime
 ```
 
-### <a name="Adobe-I/O-Events">Adobe I/O Events</a>
+### <a name="Adobe-I/O-Events">Set Up Adobe I/O Events</a>
 
 With Adobe I/O Events, you can code event-driven experiences, applications, and custom workflows that leverage and combine the Adobe Experience Cloud, Creative Cloud, and Document Cloud.
 
@@ -307,8 +301,6 @@ Use Adobe I/O by creating a new integration with the Console. To do this:
 
 
 ### <a name="Set-Up-Target-Continued">Set Up Target (Continued)</a>
-
-Before setting up Target, make sure you have configured Adobe I/O services, as described in the previous section.
 
 Adobe Target is a personalization solution that makes it easy to identify your best content through tests that are easy to execute. So you can deliver the right experience to the right customer.
 
