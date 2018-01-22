@@ -68,7 +68,7 @@ To set up Launch:
 
 1. Click the **Rules** tab and create a **Target** rule with the following specifications:
 
-   ![edit rule](https://git.corp.adobe.com/storage/user/17975/files/503df470-ca3b-11e7-9c2c-c22fff582ed2)
+     ![edit rule](https://user-images.githubusercontent.com/29133525/35232202-1dbb2cb4-ff58-11e7-8d9d-398024a3ae43.png)
 
 1. Similarly, create an **Analytics** rule with the following specifications:
 
