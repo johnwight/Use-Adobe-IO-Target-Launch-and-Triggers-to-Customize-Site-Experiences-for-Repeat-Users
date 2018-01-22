@@ -322,7 +322,7 @@ To set up Target:
 
 1. Click the **Visitor Profile** drop down arrow to see existing custom attributes for creating audiences.
 
-     ![custom attribute](https://user-images.githubusercontent.com/29133525/35234438-5d272e42-ff5e-11e7-8743-2110c2d6cf4f.png)
+     ![custom attribute](https://user-images.githubusercontent.com/29133525/35234493-8fbb50e0-ff5e-11e7-940d-197171950a4b.png)
 
 1. Create a rule to check if the user has abandoned a cart during earlier visits and then click **Save**.
 
