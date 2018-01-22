@@ -326,7 +326,7 @@ To set up Target:
 
 1. Create a rule to check if the user has abandoned a cart during earlier visits and then click **Save**.
 
-    ![create rule cart](https://git.corp.adobe.com/storage/user/17975/files/626dea26-cbc4-11e7-8410-034eab9a17da)
+     ![create rule cart](https://user-images.githubusercontent.com/29133525/35234543-c4df1d4c-ff5e-11e7-994a-ed2e4dbc81ab.png)
 
 1. Click the **Activities** tab and select **Experience Targeting**.
 
