@@ -132,7 +132,7 @@ To set up Launch:
 
 15. The last step in the workflow is to select **Build and Publish to Production** on the drop down arrow under **Approved**.
 
-    ![build and publish to production](https://git.corp.adobe.com/storage/user/17975/files/ab991a46-cba5-11e7-8ba8-8e0aeef7d267)
+     ![build and publish to production](https://user-images.githubusercontent.com/29133525/35232616-2b0ee6de-ff59-11e7-8405-3472c6f1876c.png)
 
 
 ### <a name="Set-Up-Analytics-Triggers">Set Up Analytics Triggers</a>
