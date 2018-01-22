@@ -145,7 +145,7 @@ To set up Triggers for this solution:
 
 1. Create a cart abandonment Triggers rule.
 
-    ![cart abandonment rule](https://git.corp.adobe.com/storage/user/17975/files/ee625cf4-cbad-11e7-9f05-c2abb539bb46)
+     ![cart abandonment rule](https://user-images.githubusercontent.com/29133525/35232707-671e5056-ff59-11e7-8309-db44bd0d296f.png)
 
 1. Add the following dimensions:
 
